@@ -29,6 +29,7 @@
   //"editor.defaultFormatter": "esbenp.prettier-vscode",
   "files.autoSave": "off",
   "files.eol": "\n",
+  "window.titleBarStyle": "native",
   "workbench.activityBar.location": "hidden",
   "workbench.editor.labelFormat": "short",
   "workbench.startupEditor": "none",
