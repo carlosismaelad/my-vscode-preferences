@@ -1,0 +1,43 @@
+{
+  "symbols.hidesExplorerArrows": false,
+  "[ruby]": {
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "editor.rulers": [120],
+    "editor.semanticHighlighting.enabled": true
+  },
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.renderLineHighlight": "gutter",
+
+  "editor.minimap.enabled": false,
+  "explorer.compactFolders": false,
+  "window.customTitleBarVisibility": "auto",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontLigatures": true,
+  "explorer.confirmDelete": false,
+  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.rulers": [80, 120],
+
+  //"editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.autoSave": "off",
+  "files.eol": "\n",
+  "workbench.activityBar.location": "hidden",
+  "workbench.editor.labelFormat": "short",
+  "workbench.startupEditor": "none",
+  "workbench.iconTheme": "symbols",
+  "workbench.statusBar.visible": false,
+  "breadcrumbs.enabled": false,
+  "window.menuBarVisibility": "compact",
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "terminal.integrated.fontFamily": "monospace",
+  "workbench.colorTheme": "OM Theme (Night Owl Italic)"
+}
